@@ -2,12 +2,11 @@
 I am Prakirth. Currently, working on career transition towards Data Science. Started learning to code since March 2020. Since then working on updating skills on @freecodecamp & @datacamp. Gained methodical understanding of Data Science through IBM Data Science certification on Coursera in January 2021. 
 
 
+## _Reaching the stars to..._
+**Start as a Data Analyst in an Investment Bank, to eventually some day run an entire fund as a Fund Manager**
+
 ### _Wish to work in finance because..._
 Developed a keen interest in financial perspective towards Environmental, Social & Governance (ESG) initiatives through Erasmus University course (Principles of Sustainable Finance, Coursera) in May 2021. To build on that contributed as a team (of 5) in a Sustainability Challenge by EKIPA (Innovation Platform)-KION Group (Organisation) based on SDG 12 (Responsible Consumption and Production) from June 14 - September 8.
-
-
-### _Reaching the stars to..._
-**Start as a Data Analyst in an Investment Bank, to eventually some day run an entire fund as a Fund Manager**
 
 
 ### _Building my ladder to reach the stars by..._
