@@ -27,10 +27,10 @@ Developed a keen interest in financial perspective towards Environmental, Social
   -  Learning from scratch 🧮 😅
 
 **- 🤔 I’m looking for help with :**
-  -  building my skills
-  -  showcasing already built skills
+  -  building analytical and mathematical (_algebra, statistics & probability_) skills through Python
+  -  showcasing already built skills (_check out my repos, if interested 😸_)
 
-**- 💬 Wanna know more about me and my career plan. Happy to share!** 🍰 🤝
+**- 💬 Wanna know more about me and my career plan? Happy to share!** 🍰 🤝
 - 📫 Reach me: prakirthgovardhanam@gmail.com
 - 🏳️‍🌈 Pronouns: He/Him
 
