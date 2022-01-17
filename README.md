@@ -11,7 +11,7 @@ Developed a keen interest in financial perspective towards Environmental, Social
 
 ### _Building my ladder to reach the stars by..._
 **- 🔭 Working on :**
-  -  building a stock performance analysis of Bitcoin since its origin to 2021 through DataCamp. Recently, found an [exciting resource](https://github.com/datacamp/datacamp-community-tutorials/blob/bd317ee6281f371b0a4a4bf5ccd42ac91566da56/Python%20Finance%20Tutorial%20For%20Beginners/Python%20For%20Finance%20Beginners%20Tutorial.ipynb) @datacamp to improvise my work. 
+  -  building a stock performance analysis of Bitcoin since its origin to 2021 through DataCamp. Recently, found an [exciting resource](https://github.com/datacamp/datacamp-community-tutorials/blob/bd317ee6281f371b0a4a4bf5ccd42ac91566da56/Python%20Finance%20Tutorial%20For%20Beginners/Python%20For%20Finance%20Beginners%20Tutorial.ipynb) @datacamp from 2017 (_timeless knowledge_🗝️) to improvise my work. 
   -  building an [ESG profiling dashboard](https://github.com/prak112/esg-profile.git) (still in its nascent stage) to feature the stock performance of the companies which "ethically" follow the standards of running a Sustainable organisation. 💝 **_my pet project_** 💓
 
 #### _Built an entire learning tracker for [Data Analyst career](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493) on Notion. Feel free to duplicate for your purposes._ 🌠
