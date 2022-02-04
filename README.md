@@ -1,5 +1,5 @@
 ### Hi there! 😃👋
-I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building projects. Developed scientific understanding through [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) and my [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam) 🤓
+I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building projects. Developed scientific understanding from [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 and [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
 
 
 ## _Reaching the stars to..._
