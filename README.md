@@ -17,7 +17,7 @@ Developed a keen interest in financial perspective towards Environmental, Social
 #### _Built an entire learning tracker for [Data Analyst curriculum](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493) from several reliable sources on Analytics (freeCodeCamp, DataCamp & Alex Freberg) on Notion. Feel free to duplicate for your purposes._ 🌠
 
 **- 🌱 Learning :**
-  -  SQL Fundamentals on DataCamp as part of my [Data Analyst curriculum] (https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493).
+  -  SQL Fundamentals on DataCamp as part of my [Data Analyst curriculum](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493).
   -  Geometry fundamentals on Khan Academy and slowly work towards learning Calculus, to develop a foundational understanding of mathematics for Data Science
 
 **- 👯 Looking to collaborate with people who are :**
