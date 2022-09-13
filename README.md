@@ -2,10 +2,11 @@
 I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building my portfolio project (ESG profiling dashboard). Developed scientific understanding from [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 and [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
 
 ## _Aiming to..._
-**Start as a Data Analyst**
 
 
-### _Wish to work with ESG Reporting because..._
+
+### _Start as a Data Analyst_
+**Wish to work with ESG Reporting because...**
 - Developed a keen interest in financial perspective towards Environmental, Social & Governance (ESG) initiatives from exploring Circular Economy with [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways). 
 - To build on Circular Economy learnings, participated in EKIPA Innovate2030-SDG12 (Responsible Consumption and Production) challenge to develop sustainable packaging solutions organised by for KION Group.
 
