@@ -1,9 +1,8 @@
 ## Hi there! 😃👋
-I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building my portfolio project (ESG profiling dashboard). Developed scientific understanding from [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 and [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
+I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building my portfolio.</br> Developed scientific understanding from [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 and [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
+</br></br>
 
 ## _Aiming to..._
-
-
 
 ### _Start as a Data Analyst_
 **Wish to work with ESG Reporting because...**
@@ -11,19 +10,21 @@ I am Prakirth. Currently, working on career transition towards Data Science. Wor
 - To build on Circular Economy learnings, participated in EKIPA Innovate2030-SDG12 (Responsible Consumption and Production) challenge to develop sustainable packaging solutions organised by for KION Group.
 
 
-### _🔭 Working on..._
-  - **building an [ESG profiling dashboard](https://github.com/prak112/esg-profile.git)** (still in its nascent stage) to feature the stock performance of the companies which follow the ESG standards - [Global Reporting Initiative (GRI)](https://www.globalreporting.org/about-gri/) 💝 **_my pet project_** 💓
+### _🔭 Working on  **_my pet projects_** 💓..._
+  - **building an [ESG profiling dashboard](https://github.com/prak112/esg-profile.git)** to feature the stock performance of the companies which follow the ESG standards - [Global Reporting Initiative (GRI)](https://www.globalreporting.org/about-gri/) 🖼️
+- **developing pipeline projects to build a personal assistant : capable of taking voice input, search online, gather text and summarize🌠**
 
-- **_constantly evolving learning tracker for [Data Analyst curriculum](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493) based on resources/insights from freeCodeCamp, DataCamp & Alex Freberg. Feel free to duplicate for your purposes._ 🌠**
 
-**🌱 Support Learning :**
-  -  SQL Fundamentals on DataCamp as part of my [Data Analyst curriculum](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493).
+### _🌱 Support Learning..._
+  - Participate in DataCamp competition projects, if analytically or intellectually intriguing 🤔
+  - Data Analyst certification from DataCamp as part of my [Data Analyst curriculum](https://relieved-rhodium-2de.notion.site/64a0006b14c24cb19c7d547ba3a14420?v=47a161a4626847cdb5eb8800a3e73493) ☸️</br></br>
 
-**👯 Looking to collaborate with people who are :**
-  -  Curious about Sustainable Finance 🌲💸
+
+## 👯 Looking to collaborate with people who are...
+  -  Curious about Sustainable Finance 💸
   -  Learning/Experts in Data Analysis 🧑‍💻 
-  -  Learning from scratch 🧮 😅
+  -  Learning from scratch 😅
 
-**💬 Wanna know more about me and my career plan? Happy to share!** 🍰 🤝
+**💬 Wanna know more about me and my career plan? Happy to share!** 🍰
 - 📫 Reach me: prakirthgovardhanam@gmail.com
 - 🏳️‍🌈 Pronouns: He/Him
