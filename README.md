@@ -1,5 +1,10 @@
 ## Hi there! 😃👋
-I am Prakirth. Currently, working on career transition towards Data Science. Working on updating skills through Datacamp and building my portfolio.</br> Developed scientific understanding from [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 and [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
+I am Prakirth. Working on career transition towards Data Science by starting as a Data Analyst. 
+- Updating skills through Datacamp and building my portfolio
+- Developing industrial understanding through 
+  - [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 
+  - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
+  - [Internship as a Project Intern at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍💼
 </br></br>
 
 ## _Aiming to..._
@@ -12,7 +17,7 @@ I am Prakirth. Currently, working on career transition towards Data Science. Wor
 
 ### _🔭 Working on  **_my pet projects_** 💓..._
   - **building an [ESG profiling dashboard](https://github.com/prak112/esg-profile.git)** to feature the stock performance of the companies which follow the ESG standards - [Global Reporting Initiative (GRI)](https://www.globalreporting.org/about-gri/) 🖼️
-- **developing pipeline projects to build a personal assistant : capable of taking voice input, search online, gather text and summarize🌠**
+- **Planning & building pipeline projects to build a personal assistant : capable of taking voice input, search online, gather text and summarize🌠**
 
 
 ### _🌱 Support Learning..._
