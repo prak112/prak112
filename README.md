@@ -3,7 +3,7 @@ I am Prakirth. Working on career transition towards Data Science by starting as 
 - Updating skills through Datacamp and building my portfolio
 - Developing industrial understanding through 
   - [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 
-  - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam)
+  - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) 🥇
   - [Internship as a Project Intern at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍💼
 </br></br>
 
