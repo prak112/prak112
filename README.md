@@ -4,6 +4,7 @@ I am Prakirth. Working on career transition towards Data Science by starting as 
 - Developing industrial understanding through 
   - [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 
   - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) 🥇
+  - Hackathons - [Data4Wildlife](https://github.com/prak112/data4wildlife.git) & [CrunchDAO](https://github.com/prak112/crunchdao.git) 🤩
   - [Internship as a Project Intern at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍💼
 </br></br>
 
