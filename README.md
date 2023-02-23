@@ -32,12 +32,23 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prak112&hide_progress=true&hide=scss,css&theme=dark)](https://github.com/prak112/github-readme-stats)
 
 # 🛠️ Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="80"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="50"/>
+
+</div>
+
 
 
 - 📚 Learning Resources
   - KAGGLE/DataCamp competition projects ☸️
+  - [AWS CloudQuest](https://explore.skillbuilder.aws/learn/course/11458/play/42651/play-cloud-quest-cloud-practitioner)
   - [Django For Everybody, by Dr. Chuck](https://www.dj4e.com/lessons) ☸️
   </br></br>
+
 - 👯 Looking to collaborate with Data Analysts 🧑‍💻 
 
 - 📫 Reach me: <div id="badges">
@@ -45,3 +56,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+------
+------
+
+**CREDITS:**
+- README editing resources :
+  - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons in Languages and Tools, LinkedIn_
+  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
