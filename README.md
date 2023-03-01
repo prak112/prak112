@@ -49,7 +49,7 @@
   - [Django For Everybody, by Dr. Chuck](https://www.dj4e.com/lessons) ☸️
   </br></br>
 
-- 👯 Looking to collaborate with Data Analysts 🧑‍💻 
+- 👯 Looking to collaborate with Data Analysts/Developers 🧑‍💻 
 
 - 📫 Reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/">
