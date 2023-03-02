@@ -2,7 +2,7 @@
 
 
 # 🧔 About Me 
-Agile, creative & motivated programmer. Skilled in research analysis, project management & team work. Built web-crawlers automation, AWS analytics pipeline & geospatial analysis. Learning Back-End development (Django, Docker & Shell scripting).
+Agile, creative & motivated programmer. Skilled in research analysis, project management & team work. Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. Learning Back-End development (Django, Docker & Shell scripting).
 
 - **Other Interests:**
   - Environmental, Social & Governance Reporting (Sustainable Finance)
