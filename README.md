@@ -1,12 +1,11 @@
-# Hi there, I am Prakirth.
+# Hi there, I am Prakirth 🖐️
 
 
 # 🧔 About Me 
-- Interested in Data Analytics and Back-End Development. Strong coding skills in Python, cloud computation skills in AWS & Database handling skills in SQL. Learning Django.
-- At Bromeco & Inventure contributed to building analytics pipeline using AWS and web scraper engines using Python, respectively. 
+Agile, creative & motivated programmer. Skilled in research analysis, project management & team work. Built web-crawlers automation, AWS analytics pipeline & geospatial analysis. Learning Back-End development (Django, Docker & Shell scripting).
 
 - **Other Interests:**
-  - Environmental, Social & Governance (ESG) reporting (Sustainable Finance)
+  - Environmental, Social & Governance Reporting (Sustainable Finance)
   - Technological updates in Circular Economy (following [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways))
   - Hackathons 
     - [EKIPA Innovate2030-SDG12 (Responsible Consumption and Production) Challenge](https://ekipade310.sharepoint.com/sites/3TeamProjekte/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates%2Fekipa%20Certificate%20Innovate2030%20SDG12%20Prakirth%20Govardhanam%2Epdf&parent=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates&p=true&ga=1)
@@ -14,7 +13,8 @@
     - [CrunchDAO](https://github.com/prak112/crunchdao.git)
 
 - **Background :**
-  - [Internship as a Project Intern at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍💼
+  - [Internships at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍
+  - [Continuous Learning at DataCamp](https://www.datacamp.com/profile/prakirthgovardhanam)💼
   - [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 
   - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) 🥇
 
