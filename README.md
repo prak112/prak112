@@ -22,10 +22,9 @@
 
 [![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)](https://github.com/prak112/github-readme-stats)
 
-
-🛠️ *Languages and Tools*
+🛠️ <i>Languages and Tools</i>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/> &ensp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/> &ensp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/> &ensp;
@@ -35,11 +34,13 @@
 
 </div>
 
+</br>
 
-- 👯 *Looking to collaborate with Data Analysts/Developers*
-- 📫 *Reach me*: <div id="badges">
-  <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  👯 <i>Looking to collaborate with Data Analysts and/or Developers</i>
+<div>
+  - 📫 <i>Reach me</i>: <div id="badges">
+      <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
