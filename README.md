@@ -3,7 +3,7 @@
 - Agile, creative & motivated programmer, *👥 psst..under pressure as well!*
 - Skilled in research analysis, project management & team work. 
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
-- Learning Back-End development (Django, Docker & CLI).
+- Learning Full-Stack development (HTML, CSS, JavaScript, Django, Docker & Git) - at freeCodeCamp, CS50 Web Programming course and Ohjelmistokehittäjäkoulutus SavonAmmattiopistossa (Software Developer Training at Savo Vocational College)
 
 *Other Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
