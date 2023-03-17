@@ -5,7 +5,7 @@
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
 - Learning Full-Stack development (HTML, CSS, JavaScript, Django, Docker & Git) - at freeCodeCamp, CS50 Web Programming course & Ohjelmistokehittäjäkoulutus SavonAmmattiopistossa (Software Developer Training at Savo Vocational College)
 
-*Other Interests:*
+*Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
   - Technological updates in Circular Economy (following [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways))
   - Hackathons 
