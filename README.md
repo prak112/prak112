@@ -3,10 +3,9 @@
 - Agile, creative & motivated programmer, *👥 psst..under pressure as well!*
 - Skilled in research analysis, project management & team work. 
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
-- Learning Full-Stack development at :
-  - freeCodeCamp, 
-  - CS50 Web & 
-  - Ohjelmistokehittäjäkoulutus SavonAmmattiopistossa (Software Developer Training at Savo Vocational College)
+- Learning Full-Stack development part-time at :
+  - **freeCodeCamp**, **CS50 Web** & 
+  - full-time at **Software Developer Training at Savo Vocational College** (*Ohjelmistokehittäjäkoulutus SavonAmmattiopistossa*)
 
 *Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
@@ -53,5 +52,5 @@
 
 **CREDITS:**
 - README editing resources :
-  - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons in Languages and Tools, LinkedIn_
+  - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons for Languages, Tools, Social Media, etc._
   - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
