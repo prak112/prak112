@@ -10,13 +10,12 @@
 
 *Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
-  - Technological updates in Circular Economy (following [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways))
+  - Circular Economy (following [Ellen MacArthur Foundation](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways))
   - Hackathons 
-    - [Long-term like Sustainability topics](https://ekipade310.sharepoint.com/sites/3TeamProjekte/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates%2Fekipa%20Certificate%20Innovate2030%20SDG12%20Prakirth%20Govardhanam%2Epdf&parent=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates&p=true&ga=1), Or [short-term like Wildlife-related](https://github.com/prak112/data4wildlife.git) & sometimes, [Quantitative Finance, still a WIP](https://github.com/prak112/crunchdao.git)
+    - [Design Thinking](https://ekipade310.sharepoint.com/sites/3TeamProjekte/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates%2Fekipa%20Certificate%20Innovate2030%20SDG12%20Prakirth%20Govardhanam%2Epdf&parent=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates&p=true&ga=1), [Coding](https://github.com/prak112/data4wildlife.git) & sometimes, [Quantitative Finance, still a WIP](https://github.com/prak112/crunchdao.git)
 
 *Background :*
-  - [Internships at Bromeco Oy & Inventure](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍
-  - [Continuous Learning at DataCamp](https://www.datacamp.com/profile/prakirthgovardhanam)💼
+  - [Data Analyst Intern](https://www.linkedin.com/in/prakirth-govardhanam-3a185156/) 🧑‍
   - [Doctoral education](https://www.researchgate.net/profile/Prakirth-Govardhanam)🤓 
   - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) 🥇
 
@@ -40,7 +39,7 @@
 
 </br>
 
-  👯 <i>Looking to collaborate with Data Analysts and/or Developers</i>
+  👯 <i>Looking to collaborate with Developers, Data Analysts</i>
 <div>
   - 📫 <i>Reach me</i>: <div id="badges">
       <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/">
