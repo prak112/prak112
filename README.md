@@ -3,9 +3,9 @@
 - Agile, creative & motivated programmer, *👥 psst..under pressure as well!*
 - Skilled in research analysis, project management & team work. 
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
-- Learning Full-Stack development part-time at :
-  - **freeCodeCamp**, **CS50 Web** & 
-  - full-time at **Software Developer Training at Savo Vocational College** (C#, HTML, PHP, SQL)
+- Learning Full-Stack Development : 
+  - full-time at *Software Developer Training at Savo Vocational College* (C#, HTML, PHP, SQL)
+  - part-time at *freeCodeCamp*, *CS50 Web* &
   - Target Tech-Stacks : *Serverless* & *LAMP*
 
 *Interests:*
