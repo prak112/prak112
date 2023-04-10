@@ -5,7 +5,8 @@
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
 - Learning Full-Stack development part-time at :
   - **freeCodeCamp**, **CS50 Web** & 
-  - full-time at **Software Developer Training at Savo Vocational College** (*Ohjelmistokehittäjäkoulutus SavonAmmattiopistossa*)
+  - full-time at **Software Developer Training at Savo Vocational College** (C#, HTML, PHP, SQL)
+  - Target Tech-Stacks : *Serverless* & *LAMP*
 
 *Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
