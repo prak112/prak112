@@ -22,7 +22,25 @@
 
 📊 *GitHub Stats*
 
-[![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><b>Rating Breakdown</b></summary>
+   <ul>
+    <li> S (top 1%),</li>
+    <li>A+ (12.5%)</li> 
+    <li>A (25%)</li>
+    <li>A- (37.5%)</li>
+    <li>B+ (50%)</li>
+    <li>B (62.5%)</li>
+    <li>B- (75%)</li>
+    <li>C+ (87.5%)</li>
+    <li>C (everyone)</li>
+  </ul>
+   This ranking scheme is based on the Japanese academic grading system, i.e., Global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests,
+   issues, stars and followers), based on the cumulative distribution function of the exponential and the log-normal distributions. The implementation can be investigated from the <a                href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">calculation</a>. The circle around the rank shows 100 minus the global percentile.
+</details>
+
+![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)
+
 
 🛠️ <i>Languages and Tools</i>
 <div>
