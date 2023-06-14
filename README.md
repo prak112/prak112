@@ -22,7 +22,7 @@
 
 📊 *GitHub Stats*
 
-[![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)](https://github.com/prak112/github-readme-stats)
+[![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 🛠️ <i>Languages and Tools</i>
 <div>
