@@ -37,11 +37,10 @@
 </table>
 
 
-*Background :*
+#### *Background :*
 <p> 
   Transitioned from career in Pharmaceutical Sciences as <a href="https://www.researchgate.net/profile/Prakirth-Govardhanam">Doctoral Researcher 🤓</a> to becoming a <b>Software Developer</b> through guiding experiences from <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/details/experience/">Internships 🧑‍</a> and <a href="https://www.credly.com/users/narayana-prakirth-govardhanam">Certifications 🧾</a>
 </p>
-</br>
 <hr>
 
 ### 📊 *GitHub Stats*
