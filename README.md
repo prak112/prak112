@@ -26,7 +26,7 @@
   - [IBM Data Science certification](https://www.credly.com/users/narayana-prakirth-govardhanam) 🥇
 
 
-📊 *GitHub Stats*
+### 📊 *GitHub Stats*
 
 <!-- Streak Info
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prak112&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats) -->
