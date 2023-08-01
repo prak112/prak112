@@ -1,12 +1,18 @@
 ## Hi there, *I am Prakirth 👋*
-
+🥇
 - Agile, creative & motivated programmer, *👥 psst..under pressure as well!*
 - Skilled in research analysis, project management & team work. 
 - Built web-scrapers automation, AWS analytics pipeline & geospatial analysis. 
-- Learning Full-Stack Development : 
-  - full-time at *Software Developer Training at Savo Vocational College* (C#, HTML, PHP, SQL)
-  - part-time at *freeCodeCamp*, *CS50 Web* &
-  - Target Tech-Stacks : *Serverless* & *LAMP*
+
+📖
+-  Learning Full-Stack Development : 
+  - full-time at *Software Developer Training at Savo Vocational College* (C#, HTML, PHP)
+  - part-time at *freeCodeCamp* & *CS50 Web* (The nitty-gritties of Web Development)
+  
+🏹
+- Target Tech-Stacks : *ASP.NET (C#)*, *Django and Flask*
+- Target Profession : *Serverless Developer* 
+- Target Cloud Platform : *AWS*, eventually *Azure* 
 
 *Interests:*
   - Environmental, Social & Governance Reporting (Sustainable Finance)
