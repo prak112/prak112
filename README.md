@@ -1,8 +1,9 @@
 ## Hi there, *I am Prakirth 👋*
-  
-</br>
+#### *Background :*
+<p> 
+  Transitioned from career in Pharmaceutical Sciences as <a href="https://www.researchgate.net/profile/Prakirth-Govardhanam">Doctoral Researcher 🤓</a> to becoming a <b>Software Developer</b> through guiding experiences from <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/details/experience/">Internships 🧑‍</a> and <a href="https://www.credly.com/users/narayana-prakirth-govardhanam">Certifications 🧾</a>
+</p>
 <hr>
-
 <table>
 <th>🥇Acheivements</th>
 <th>📖 Learnings</th>
@@ -35,23 +36,19 @@
   </td>
 </tr>
 </table>
-
-
-#### *Background :*
-<p> 
-  Transitioned from career in Pharmaceutical Sciences as <a href="https://www.researchgate.net/profile/Prakirth-Govardhanam">Doctoral Researcher 🤓</a> to becoming a <b>Software Developer</b> through guiding experiences from <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/details/experience/">Internships 🧑‍</a> and <a href="https://www.credly.com/users/narayana-prakirth-govardhanam">Certifications 🧾</a>
-</p>
 <hr>
 
 ### 📊 *GitHub Stats*
 
-#### Streak Info
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prak112&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prak112&theme=tokyonight&rank_icon=percentile" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prak112&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 
-#### Rating
-![Activity](https://github-readme-stats.vercel.app/api?username=prak112&count_private=true&show_icons=true&theme=dark&hide=contribs)
 <details>
-  <summary><b>Rating Breakdown</b></summary>
+  <summary><i>Stats Breakdown</i></summary>
    <ul>
     <li> S &ensp;=&ensp; Top 1%</li>
     <li> A+ =&ensp; Top 12.5%</li> 
@@ -66,10 +63,11 @@
    This ranking scheme is based on the Japanese academic grading system, i.e., Global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests,
    issues, stars and followers), based on the cumulative distribution function of the exponential and the log-normal distributions. The implementation can be investigated from the <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js">calculation</a>. The circle around the rank shows 100 minus the global percentile.
 </details>
- 
-<hr>
 
-### 🛠️ <i>Languages and Tools</i>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prak112&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
+#### 🛠️ <i>Knowledgable in...</i>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="50"/> &ensp;
@@ -80,19 +78,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &ensp;
 </div>
-
-</br>
+<hr>
 
 <div>
 📫 <i>Reach me</i> at <div id="badges">
     <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
 </div>
-
-------
-------
+<hr>
 
 **CREDITS:**
 - README editing resources :
   - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons for Languages, Tools, Social Media, etc._
-  - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
+  - [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
+  - [GitHub Streak info](https://github-readme-streak-stats.herokuapp.com/demo/) - _UI with github streak markdown link generator_
