@@ -4,6 +4,7 @@
   Transitioned from career in Pharmaceutical Sciences as <a href="https://www.researchgate.net/profile/Prakirth-Govardhanam">Doctoral Researcher 🤓</a> to becoming a <b>Software Developer</b> through guiding experiences from <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/details/experience/">Internships 🧑‍</a> and <a href="https://www.credly.com/users/narayana-prakirth-govardhanam">Certifications 🧾</a>
 </p>
 <hr>
+
 <table>
 <th>🥇Acheivements</th>
 <th>📖 Learnings</th>
@@ -24,8 +25,8 @@
   </td>
   <td>
     <ul>
-      <li>Tech-Stack : ASP.NET (C#), Django, Flask</li>
-      <li>Profession : <a href="https://www.freecodecamp.org/news/become-a-serverless-developer">Serverless Developer</a></li>
+      <li><b>Tech-Stack</b> : ASP.NET (C#), Django, Flask</li>
+      <li><b>Profession</b> : <a href="https://www.freecodecamp.org/news/become-a-serverless-developer">Serverless Developer</a></li>
     </ul>
   </td>
   <td>
@@ -36,6 +37,7 @@
   </td>
 </tr>
 </table>
+
 <hr>
 
 ### 📊 *GitHub Stats*
