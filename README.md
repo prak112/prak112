@@ -90,5 +90,5 @@
 **CREDITS:**
 - README editing resources :
   - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons for Languages, Tools, Social Media, etc._
-  - [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
-  - [GitHub Streak info](https://github-readme-streak-stats.herokuapp.com/demo/) - _UI with github streak markdown link generator_
+  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
+  - [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/) - _UI with github streak markdown link generator_
