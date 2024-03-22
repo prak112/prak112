@@ -14,18 +14,19 @@
   <td>
     <ul>
       <li>Research analysis, Project management, Team work</li>
+      <li><a href="https://www.credly.com/badges/5df75c47-bf67-4cb8-ab85-1dd6283e51cd/public_url">AWS Cloud Practitioner (AWS CCP)</a></li>
       <li>Web-scrapers automation, AWS analytics pipeline, <a href="https://github.com/prak112/Coursera-IBM_Capstone">Geospatial analysis</a></li>
     </ul>
   </td>
    <td>
     <ul>
-      <li>Software Developer Training at Savo Vocational College (C#, HTML, PHP)</li>
-      <li>The nitty-gritties of Web Development at <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a></li>
+      <li>Software Developer Training at Savo Vocational College (C#, HTML, JS, React)</li>
+      <li>Nitty-gritties of Web Development at <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><b>Tech-Stack</b> : ASP.NET (C#), Django, Flask</li>
+      <li><b>Tech-Stack</b> : AWS, React, NodeJS, Django, ASP.NET</li>
       <li><b>Profession</b> : <a href="https://www.freecodecamp.org/news/become-a-serverless-developer">Serverless Developer</a></li>
     </ul>
   </td>
