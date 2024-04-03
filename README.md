@@ -21,6 +21,10 @@
    <td>
     <ul>
       <li>Software Developer Training at Savo Vocational College (C#, HTML, JS, React)</li>
+        <ul>
+          <li>Django Backend - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
+          <li>JavaScript & React - <a href="https://github.com/prak112/DevSchool-Javascript">mini-Projects</a></li>
+        </ul>
       <li>Nitty-gritties of Web Development at <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a></li>
     </ul>
   </td>
