@@ -20,24 +20,24 @@
   </td>
    <td>
     <ul>
-      <li>Software Developer Training at Savo Vocational College (C#, HTML, JS, React)</li>
+      <li>Software Developer Training, Savo Vocational College (<em>Own curriculum/self-study</em>)</li>
         <ul>
           <li>Django Backend - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
-          <li>JavaScript & React - <a href="https://github.com/prak112/DevSchool-Javascript">mini-Projects</a></li>
+          <li>MERN stack - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
+          <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV.to</a>, <b>freeCodeCamp</b></li>
         </ul>
-      <li>Nitty-gritties of Web Development at <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a></li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><b>Tech-Stack</b> : AWS, React, NodeJS, Django, ASP.NET</li>
+      <li><b>Tech-Stack</b> : AWS, Django, MERN</li>
       <li><b>Profession</b> : <a href="https://www.freecodecamp.org/news/become-a-serverless-developer">Serverless Developer</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://github.com/prak112/esg-profile">Sustainable Finance</a> and <a href="https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/learning-pathways">Circular Economy</a></li>
-      <li>Hackathons, occasionally, (<a href="https://ekipade310.sharepoint.com/sites/3TeamProjekte/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates%2Fekipa%20Certificate%20Innovate2030%20SDG12%20Prakirth%20Govardhanam%2Epdf&parent=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates&p=true&ga=1">Design Thinking</a>, <a href="https://github.com/prak112/data4wildlife">Coding</a>, <a href="https://github.com/prak112/crunchdao">Quantitative Finance</a>)</li>
+      <li>Hackathons, occasionally, (<a href="https://ekipade310.sharepoint.com/sites/3TeamProjekte/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates%2Fekipa%20Certificate%20Innovate2030%20SDG12%20Prakirth%20Govardhanam%2Epdf&parent=%2Fsites%2F3TeamProjekte%2FFreigegebene%20Dokumente%2F1%20Archiv%2F2021%2F30008%20%2D%20Innovate2030%20%2D%20SDG12%2FTeilnehmende%2FZertifikate%2FGeneral%2FSingle%20PDF%20General%20Certificates&p=true&ga=1">Design Thinking</a>, <a href="https://github.com/prak112/data4wildlife">Coding</a>)</li>
     </ul>
   </td>
 </tr>
