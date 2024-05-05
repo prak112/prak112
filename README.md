@@ -30,7 +30,7 @@
   </td>
   <td>
     <ul>
-      <li><b>Tech-Stack</b> : <em>MERN + DSTS (Docker, Swagger, Travis CI, Synk) + Git/GitHub + AWS CCP</em></li>
+      <li><b>Tech-Stack</b> : <em><b>MERN*</b> + DSTS (Docker, Swagger, Travis CI, Synk) + Git/GitHub + AWS CCP</em></li>
       <li><b>Profession</b> : <em>Software Developer</em></li>
     </ul>
   </td>
