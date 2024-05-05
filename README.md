@@ -6,10 +6,10 @@
 <hr>
 
 <table>
-<th>🥇Acheivements</th>
-<th>📖 Learnings</th>
-<th>🏹 Targets</th>
-<th>😺 Interests</th>
+<th>🥇ACHIEVEMENTS</th>
+<th>📖 LEARNINGS</th>
+<th>🏹 TARGETS</th>
+<th>😺 INTERESTS</th>
 <tr>
   <td>
     <ul>
@@ -30,8 +30,8 @@
   </td>
   <td>
     <ul>
-      <li><b>Tech-Stack</b> : AWS, Django, MERN</li>
-      <li><b>Profession</b> : <a href="https://www.freecodecamp.org/news/become-a-serverless-developer">Serverless Developer</a></li>
+      <li><b>Tech-Stack</b> : <em>MERN + DSTS (Docker, Swagger, Travis CI, Synk) + Git/GitHub + AWS CCP</em></li>
+      <li><b>Profession</b> : <em>Software Developer</em></li>
     </ul>
   </td>
   <td>
