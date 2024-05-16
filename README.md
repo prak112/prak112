@@ -24,7 +24,7 @@
         <ul>
           <li>Django Backend - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
           <li>MERN stack - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
-          <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV.to</a>, <b>freeCodeCamp</b></li>
+          <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV</a>, <b>freeCodeCamp</b></li>
         </ul>
     </ul>
   </td>
