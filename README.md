@@ -75,27 +75,65 @@
 
 
 #### 🛠️ <i>Knowledgable in...</i>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="50"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/> &ensp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/> &ensp;
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sqlite" width="100" height="80"/>
+</div>
+<hr>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="nodejs" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="80" height="60"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+</div>
+<hr>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="60"/>
+</div>
+<hr>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
+</div>
+
+
+
+
+<!--<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="80"/> &ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="80" height="80"/> &ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sqlite" width="100" height="80"/> &ensp;
+<hr>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="nodejs" width="80" height="60"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> &ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &ensp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="80" height="60"/> &ensp;
 <hr>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="80" height="60"/> &ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="60"/> &ensp;
+<hr>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/> &ensp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/> &ensp;
+</div>
+<hr>-->
 
-<div>
+<!--<div>
 📫 <i>Reach me</i> at <div id="badges">
     <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-</div>
+</div>-->
+<hr>
 <hr>
 
-**CREDITS:**
+## _CREDITS_
 - README editing resources :
   - [Sitepoint](https://www.sitepoint.com/github-profile-readme/) - _details to add devicons for Languages, Tools, Social Media, etc._
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) - _details to add GitHub readme stats_
   - [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/) - _UI with github streak markdown link generator_
+  - [GitHub Dev icons](https://github.com/devicons/devicon/blob/master/icons) - _Tools and frameworks icons_
