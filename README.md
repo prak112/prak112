@@ -1,5 +1,5 @@
 ## Hi there, *I am Prakirth 👋*
-#### *Background :*
+### *Background*
 <p> 
   Transitioned from career in Pharmaceutical Sciences as <a href="https://www.researchgate.net/profile/Prakirth-Govardhanam">Doctoral Researcher 🤓</a> to becoming a <b>Software Developer</b> through guiding experiences from <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/details/experience/">Internships 🧑‍</a> and <a href="https://www.credly.com/users/narayana-prakirth-govardhanam">Certifications 🧾</a>
 </p>
@@ -74,7 +74,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prak112&theme=ocean-dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
-#### 🛠️ <i>Knowledgable in...</i>
+### 🛠️ <i>Knowledgable in...</i>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="80" height="80"/>
@@ -91,6 +91,7 @@
 <hr>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="80" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" alt="mongoose" width="80" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="60"/>
 </div>
 <hr>
@@ -99,27 +100,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
-
-
-
-<!--<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="80"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="80" height="80"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sqlite" width="100" height="80"/> &ensp;
-<hr>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="nodejs" width="80" height="60"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="80" height="60"/> &ensp;
-<hr>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="80" height="60"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Micorsoft SQL Server"  alt="MicrosoftSQLServer" width="60" height="60"/> &ensp;
-<hr>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/> &ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/> &ensp;
-</div>
-<hr>-->
 
 <!--<div>
 📫 <i>Reach me</i> at <div id="badges">
