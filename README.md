@@ -19,14 +19,13 @@
     </ul>
   </td>
    <td>
-    <ul>
-      <li>Software Developer Training, Savo Vocational College (<em>Own curriculum/self-study</em>)</li>
-        <ul>
-          <li>Django Backend - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
-          <li>MERN stack - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
-          <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV</a>, <b>freeCodeCamp</b></li>
-        </ul>
-    </ul>
+      <ul>
+        <li>Django (learn) - <a href="https://github.com/prak112/cs50-webdev/tree/main/django">Projects-based learning</a></li>
+        <li>Django (project) - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
+        <li>MERN (learn) - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
+        <li>MERN (project) - <a href="https://github.com/prak112/ICD11-SymptomChecker">ICD11-Symptom Checker</a></li>
+        <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV</a></li>
+      </ul>
   </td>
   <td>
     <ul>
