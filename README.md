@@ -24,8 +24,8 @@
         <li>Django (project) - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
         <li>MERN (learn) - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
         <li>MERN (project) - <a href="https://github.com/prak112/ICD11-SymptomChecker">ICD11-Symptom Checker</a></li> -->
-        <li>Projects and Documentation Central - <a href="https://github.com/prak112/Docs-Hub/tree/main#docs-hub">Docs-Hub</a> </li>
-        <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV</a></li>
+        <li><a href="https://github.com/prak112/Docs-Hub/tree/main#docs-hub">Docs-Hub</a> - Projects and Documentation Central</li>
+        <li><a href="https://dev.to/prakirth">DEV</a> - Software Development 101 Posts</li>
       </ul>
   </td>
   <td>
