@@ -20,10 +20,11 @@
   </td>
    <td>
       <ul>
-        <li>Django (learn) - <a href="https://github.com/prak112/cs50-webdev/tree/main/django">Projects-based learning</a></li>
+      <!--  <li>Django (learn) - <a href="https://github.com/prak112/cs50-webdev/tree/main/django">Projects-based learning</a></li>
         <li>Django (project) - <a href="https://github.com/prak112/DevSchool-Project">Ecommerce store</a></li>
         <li>MERN (learn) - <a href="https://github.com/prak112/fullstack-open-core">Projects-based learning</a></li>
-        <li>MERN (project) - <a href="https://github.com/prak112/ICD11-SymptomChecker">ICD11-Symptom Checker</a></li>
+        <li>MERN (project) - <a href="https://github.com/prak112/ICD11-SymptomChecker">ICD11-Symptom Checker</a></li> -->
+        <li>Projects and Documentation Central - <a href="https://github.com/prak112/Docs-Hub/tree/main#docs-hub">Docs-Hub</a> </li>
         <li>Software Development 101 at <a href="https://dev.to/prakirth">DEV</a></li>
       </ul>
   </td>
@@ -100,12 +101,12 @@
 </div>
 
 
-<!--<div>
+<div>
 📫 <i>Reach me</i> at <div id="badges">
-    <a href="https://www.linkedin.com/in/prakirth-govardhanam-3a185156/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/prakirth-govardhanam/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-</div>-->
-<hr>
+</div>
+
 <hr>
 
 ## _CREDITS_
