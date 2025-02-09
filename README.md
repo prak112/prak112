@@ -13,6 +13,7 @@
 <tr>
   <td>
     <ul>
+      <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:7293176703865020418/">Technical Degree Graduation</a> in Software Development</li>
       <li>Research analysis, Project management, Team work</li>
       <li><a href="https://www.credly.com/badges/5df75c47-bf67-4cb8-ab85-1dd6283e51cd/public_url">AWS Cloud Practitioner (AWS CCP)</a></li>
       <li>Web-scrapers automation, AWS analytics pipeline, <a href="https://github.com/prak112/Coursera-IBM_Capstone">Geospatial analysis</a></li>
@@ -30,7 +31,7 @@
   </td>
   <td>
     <ul>
-      <li><b>Tech-Stack</b> : <em><b>MERN*</b> + DSTS (Docker, Swagger, Travis CI, Synk) + Git/GitHub + AWS CCP</em></li>
+      <li><b>Tech-Stack</b> : <em><b>MERN*</b> + DevOps (Docker, Terraform, Ansible, Grafana) + Git/GitHub + AWS</em></li>
       <li><b>Profession</b> : <em>Software Developer</em></li>
     </ul>
   </td>
